@@ -1,5 +1,5 @@
 # Twitter-gender-text-Analysis
-This notebook follows this procedure for end to end analysis of text,words used by Male & Female users on Twitter :-
+This notebook follows this procedure for end to end analysis :-
 
    1. The dataset is initially analysed to identify trends, patterns, outliers etc
    2. Preliminary data cleaning is futher proceeded for filtering out required parameters.
