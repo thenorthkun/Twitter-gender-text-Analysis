@@ -8,4 +8,4 @@ This notebook follows this procedure for end to end analysis :-
 
 For a little extra, the notebook also covers analysis of color attributes corresponding to each Gender 
 
-This project was done as a part of my __Machine Learning Internship__ at Verzeo Edutech Pvt. Ltd.
+This Project was done as a part of my (Major Project) __Machine Learning Internship__ at Verzeo Edutech Pvt. Ltd.
