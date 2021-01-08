@@ -1,5 +1,5 @@
 # Twitter-gender-text-Analysis
-(Deployed using Flask)<br>
+*(Deployed using Flask)*<br>
 This notebook follows this procedure for end to end analysis :-
 
    1. The dataset is initially analysed to identify trends, patterns, outliers etc
